@@ -1,4 +1,4 @@
 # My-version-of-Microsoft-Paint
 
 
-created a my own version of Micrsoft paint Using Javs
+created a my own version of Micrsoft paint using Java
